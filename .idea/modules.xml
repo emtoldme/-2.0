@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RURAL/RURAL.iml" filepath="$PROJECT_DIR$/RURAL/RURAL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insight/insight.iml" filepath="$PROJECT_DIR$/insight/insight.iml" />
       <module fileurl="file://$PROJECT_DIR$/libarary.iml" filepath="$PROJECT_DIR$/libarary.iml" />
     </modules>
   </component>
